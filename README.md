@@ -2,9 +2,6 @@
 
 Welcome to the **Data Types and Conversion Mini-Game**! This is a simple, interactive web game designed to help beginners learn about JavaScript data types, type conversion, and type coercion. The game presents a series of questions where users guess the outcome of various JavaScript operations, providing immediate feedback and explanations.
 
-## Demo
-
-You can view and play the game [here](#) (Add the link to the live demo if available).
 
 ## Features
 
